@@ -1,5 +1,6 @@
 {
     "name": "XTRAS - Timer",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
